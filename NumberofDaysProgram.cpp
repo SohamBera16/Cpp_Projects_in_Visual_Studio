@@ -1,3 +1,4 @@
+# The program calculates the number of days in a certain month of a year
 #include <iostream>
 using namespace std;
 
